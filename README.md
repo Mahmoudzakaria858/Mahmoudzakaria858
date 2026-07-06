@@ -200,35 +200,112 @@ Computer Science
 
 ---
 
-# 📦 Featured Projects
+# 🏗 Engineering Solutions
+
+<table>
+
+<tr>
+
+<td width="50%">
 
 ### 🏭 Test Executor
 
-Industrial machine testing platform designed to organize, execute, and document testing workflows.
+**Industrial Machine Testing Platform**
 
----
+Desktop application designed to execute, organize, and document industrial machine testing workflows.
+
+**Key Features**
+
+- Automated Test Execution
+- Test Reporting
+- Vision Integration
+- Database Validation
+
+🔗 **Repository**
+https://github.com/Mahmoudzakaria858/Test-Executor
+
+</td>
+
+<td width="50%">
 
 ### 📋 Test Manager Tool
 
-Desktop application for managing industrial test cases and reports.
+**Industrial Test Management**
 
----
+Desktop application for managing machine test cases, reports, and testing documentation.
+
+**Key Features**
+
+- Test Case Management
+- Excel Reports
+- Documentation
+- Workflow Tracking
+
+🔗 **Repository**
+https://github.com/Mahmoudzakaria858/Test-Manager-Tool
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
 
 ### 🏷 ZPL Label Converter
 
-Utility for editing and converting ZPL labels used in industrial printing systems.
+**Industrial Label Utility**
 
----
+Desktop tool for editing and converting ZPL labels used in production environments.
+
+**Key Features**
+
+- Label Preview
+- Printer Connectivity
+- Multi-language Support
+- Export Functions
+
+🔗 **Repository**
+https://github.com/Mahmoudzakaria858/zpl-label-converter
+
+</td>
+
+<td width="50%">
 
 ### 🖨 Print Label Desktop
 
-Desktop application for production label management.
+**Production Label Management**
+
+Desktop application supporting industrial label printing and workflow optimization.
+
+**Key Features**
+
+- Label Printing
+- Serialization Support
+- Production Workflow
+
+🔗 **Repository**
+https://github.com/Mahmoudzakaria858/print-label-desktop
+
+</td>
+
+</tr>
+
+</table>
 
 ---
+# 💼 Current Focus
 
-### 📦 Print Label Serialization
+- 🏭 Building software for industrial manufacturing environments
 
-Supporting serialization and Track & Trace workflows.
+- 📷 Improving Vision Inspection workflows
+
+- 🏷 Developing Track & Trace utilities
+
+- 🧪 Simplifying testing and commissioning processes
+
+- 🎓 Completing my Bachelor's degree in Computer Science
+
 
 ---
 
@@ -239,16 +316,19 @@ Supporting serialization and Track & Trace workflows.
 - Data Structures & Algorithms
 - Desktop Application Development
 - AI-assisted Development
-
 ---
 
 # 💡 Engineering Philosophy
 
-> Every software project begins with a real engineering challenge.
+<div align="center">
 
-I don't build software simply to write code.
+## "Every software project begins with a real engineering challenge."
 
-I build practical tools that simplify engineering work, reduce repetitive tasks, and improve productivity.
+I don't build software just to practice programming.
+
+I build practical tools that reduce repetitive work, improve engineering efficiency, and solve real manufacturing challenges.
+
+</div>
 
 ---
 
