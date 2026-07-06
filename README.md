@@ -176,25 +176,37 @@ Computer Science
 
 ---
 
-# 📊 GitHub Statistics
+# 📊 GitHub Dashboard
 
-<p align="center">
+<div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Mahmoudzakaria858&show_icons=true&theme=github_dark&hide_border=true"/>
+<img height="180em"
+src="https://github-readme-stats.vercel.app/api?username=Mahmoudzakaria858&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahmoudzakaria858&layout=compact&theme=github_dark&hide_border=true"/>
+<img height="180em"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahmoudzakaria858&layout=compact&theme=github_dark&hide_border=true"/>
 
-</p>
+</div>
 
-<p align="center">
+<div align="center">
 
 <img src="https://streak-stats.demolab.com?user=Mahmoudzakaria858&theme=github-dark-blue&hide_border=true"/>
 
-</p>
+</div>
+
+<div align="center">
+
+<img width="95%"
+src="https://github-readme-activity-graph.vercel.app/graph?username=Mahmoudzakaria858&theme=github-compact&hide_border=true"/>
+
+</div>
+
+---
+# 🏆 Achievements
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mahmoudzakaria858&theme=github-compact"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Mahmoudzakaria858&theme=algolia&no-frame=true&row=1&column=6"/>
 
 </p>
 
@@ -207,6 +219,7 @@ Computer Science
 <tr>
 
 <td width="50%">
+
 
 ### 🏭 Test Executor
 
@@ -309,15 +322,25 @@ https://github.com/Mahmoudzakaria858/print-label-desktop
 
 ---
 
-# 🌱 Currently Learning
+# 📚 Current Learning
 
-- Bachelor of Science in Computer Science
-- Software Engineering
-- Data Structures & Algorithms
-- Desktop Application Development
-- AI-assisted Development
+```text
+🎓 Bachelor of Science in Computer Science
+
+📖 Software Engineering
+
+🧠 Data Structures & Algorithms
+
+🐍 Advanced Python
+
+🖥 Desktop Application Development
+
+🤖 AI-assisted Software Development
+
+🏭 Industrial Digitalization
+```
+
 ---
-
 # 💡 Engineering Philosophy
 
 <div align="center">
@@ -332,16 +355,16 @@ I build practical tools that reduce repetitive work, improve engineering efficie
 
 ---
 
-## 📫 Connect With Me
+# 📬 Let's Connect
 
-<p align="left">
+<p align="center">
 
 <a href="https://www.linkedin.com/in/mahmoud-zakaria-72748b194/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:mahmoudzakaria25@hotmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </p>
@@ -350,8 +373,12 @@ I build practical tools that reduce repetitive work, improve engineering efficie
 
 <div align="center">
 
-### ⭐ Thanks for visiting my profile!
+<div align="center">
 
-*"Engineering is about solving problems, not just writing code."*
+## ⭐ Thank you for visiting my profile!
+
+> *Engineering is about solving problems, not just writing code.*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=8B0038&height=120&section=footer"/>
 
 </div>
