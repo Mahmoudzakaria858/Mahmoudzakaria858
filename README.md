@@ -229,17 +229,18 @@ Desktop application designed to execute, organize, and document industrial machi
 
 **Key Features**
 
-- Automated Test Execution
-- Test Reporting
-- Vision Integration
-- Database Validation
+- ✅ Automated Test Execution
+- ✅ Test Reporting
+- ✅ Vision Integration
+- ✅ Database Validation
 
-🔗 **Repository**
-https://github.com/Mahmoudzakaria858/Test-Executor
+<p align="center">
 
-</td>
+<a href="https://github.com/Mahmoudzakaria858/Test-Executor">
+<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-<td width="50%">
+</p>
 
 ### 📋 Test Manager Tool
 
@@ -249,21 +250,18 @@ Desktop application for managing machine test cases, reports, and testing docume
 
 **Key Features**
 
-- Test Case Management
-- Excel Reports
-- Documentation
-- Workflow Tracking
+- ✅ Test Case Management
+- ✅ Excel Reports
+- ✅ Documentation
+- ✅ Workflow Tracking
 
-🔗 **Repository**
-https://github.com/Mahmoudzakaria858/Test-Manager-Tool
+<p align="center">
 
-</td>
+<a href="https://github.com/Mahmoudzakaria858/Test-Manager-Tool">
+<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-</tr>
-
-<tr>
-
-<td width="50%">
+</p>
 
 ### 🏷 ZPL Label Converter
 
@@ -273,17 +271,39 @@ Desktop tool for editing and converting ZPL labels used in production environmen
 
 **Key Features**
 
-- Label Preview
-- Printer Connectivity
-- Multi-language Support
-- Export Functions
+- ✅ Label Preview
+- ✅ Printer Connectivity
+- ✅ Multi-language Support
+- ✅ Export Functions
 
-🔗 **Repository**
-https://github.com/Mahmoudzakaria858/zpl-label-converter
+<p align="center">
 
-</td>
+<a href="https://github.com/Mahmoudzakaria858/zpl-label-converter">
+<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-<td width="50%">
+</p>
+
+### 🏷 ZPL Label Converter
+
+**Industrial Label Utility**
+
+Desktop tool for editing and converting ZPL labels used in production environments.
+
+**Key Features**
+
+- ✅ Label Preview
+- ✅ Printer Connectivity
+- ✅ Multi-language Support
+- ✅ Export Functions
+
+<p align="center">
+
+<a href="https://github.com/Mahmoudzakaria858/zpl-label-converter">
+<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
 
 ### 🖨 Print Label Desktop
 
@@ -293,20 +313,17 @@ Desktop application supporting industrial label printing and workflow optimizati
 
 **Key Features**
 
-- Label Printing
-- Serialization Support
-- Production Workflow
+- ✅ Label Printing
+- ✅ Serialization Support
+- ✅ Production Workflow
 
-🔗 **Repository**
-https://github.com/Mahmoudzakaria858/print-label-desktop
+<p align="center">
 
-</td>
+<a href="https://github.com/Mahmoudzakaria858/print-label-desktop">
+<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-</tr>
-
-</table>
-
----
+</p>
 # 💼 Current Focus
 
 - 🏭 Building software for industrial manufacturing environments
