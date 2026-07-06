@@ -7,9 +7,9 @@
 **Track & Trace • Vision Systems • Machine Commissioning**
 
 > **Building practical tools from real engineering challenges.**
-
-<!-- هنضيف البانر هنا بعد ما نصممه -->
-<!-- <img src="assets/banner.png" width="100%" /> -->
+<p align="center">
+  <img src="assets/banner.png" width="100%" alt="Banner"/>
+</p>
 
 <p>
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&center=true&vCenter=true&width=900&lines=Testing+%26+Integration+Specialist;Track+%26+Trace+Systems;Vision+Inspection;Machine+Commissioning;Computer+Science+Student;Building+Practical+Engineering+Tools" />
