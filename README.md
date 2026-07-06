@@ -263,26 +263,6 @@ Desktop application for managing machine test cases, reports, and testing docume
 
 </p>
 
-### 🏷 ZPL Label Converter
-
-**Industrial Label Utility**
-
-Desktop tool for editing and converting ZPL labels used in production environments.
-
-**Key Features**
-
-- ✅ Label Preview
-- ✅ Printer Connectivity
-- ✅ Multi-language Support
-- ✅ Export Functions
-
-<p align="center">
-
-<a href="https://github.com/Mahmoudzakaria858/zpl-label-converter">
-<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</p>
 
 ### 🏷 ZPL Label Converter
 
