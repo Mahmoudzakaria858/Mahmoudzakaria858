@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/banner.png" width="100%" alt="Banner"/>
+<img src="assets/banner.png" width="100%" alt="Mahmoud Zakaria Banner"/>
 
 # Hi 👋, I'm Mahmoud Ahmed Zakaria Abdelwahed
 
@@ -8,44 +8,39 @@
 
 **Track & Trace • Vision Systems • Machine Commissioning**
 
-> **Building practical tools from real engineering challenges.**
+<h3>
+<span style="color:#7BCB68;">
+Turning Real Engineering Challenges into Practical Software
+</span>
+</h3>
 
-<p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3500&pause=1200&color=7BCB68&center=true&vCenter=true&width=900&lines=Testing+%26+Integration+Specialist;Track+%26+Trace+Systems;Vision+Inspection;Machine+Commissioning;Computer+Science+Student;Python+Desktop+Application+Developer;Building+Practical+Engineering+Tools" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&center=true&vCenter=true&width=900&lines=Testing+%26+Integration+Specialist;Track+%26+Trace+Systems;Vision+Inspection;Machine+Commissioning;Computer+Science+Student;Building+Practical+Engineering+Tools"/>
+<br><br>
 
-</p>
-
-</div>
-<p>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&center=true&vCenter=true&width=900&lines=Testing+%26+Integration+Specialist;Track+%26+Trace+Systems;Vision+Inspection;Machine+Commissioning;Computer+Science+Student;Building+Practical+Engineering+Tools" />
-</p>
-
-<p>
-<a href="YOUR_LINKEDIN_URL">
+<a href="https://www.linkedin.com/in/mahmoud-zakaria-72748b194/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:mahmoudzakaria25@hotmail.com">
 <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<img src="https://komarev.com/ghpvc/?username=Mahmoudzakaria858&style=for-the-badge"/>
-</p>
+<img src="https://komarev.com/ghpvc/?username=Mahmoudzakaria858&style=for-the-badge&color=7BCB68"/>
 
 </div>
 
 ---
 
-# 👨‍💻 About Me
+## 👨‍💻 About Me
 
-I'm a **Testing, Integration & Commissioning Specialist** working with industrial **Track & Trace**, **Vision Inspection**, and **Machine Integration** systems.
+I'm a **Testing, Integration & Commissioning Specialist** specializing in **Track & Trace**, **Vision Inspection**, and **Machine Integration** for industrial manufacturing systems.
 
-Throughout my career, I have participated in delivering more than **40 industrial machines** across **Egypt**, **Saudi Arabia**, and the **United Arab Emirates**, contributing to the successful delivery of **20+ industrial projects**.
+Throughout my career, I have contributed to delivering **40+ industrial machines** across **Egypt**, **Saudi Arabia**, and the **United Arab Emirates**, participating in more than **20 industrial projects** from commissioning through final customer acceptance.
 
-Currently, I'm pursuing a **Bachelor of Science in Computer Science**, while developing practical software tools that solve real engineering challenges encountered during testing, commissioning, and production support.
+Currently, I'm pursuing a **Bachelor of Science in Computer Science**, while building practical desktop applications that solve real engineering challenges encountered during testing, commissioning, and production support.
 
-I enjoy transforming repetitive engineering tasks into practical software solutions that improve productivity and reliability.
+I believe that the best software starts with a real problem—not just an idea.
 
 ---
 
