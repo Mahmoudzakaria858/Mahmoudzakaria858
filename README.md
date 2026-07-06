@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="assets/banner.png" width="100%" alt="Banner"/>
+
 # Hi 👋, I'm Mahmoud Ahmed Zakaria Abdelwahed
 
 ### Testing, Integration & Commissioning Specialist
@@ -7,10 +9,14 @@
 **Track & Trace • Vision Systems • Machine Commissioning**
 
 > **Building practical tools from real engineering challenges.**
-<p align="center">
-  <img src="assets/banner.png" width="100%" alt="Banner"/>
+
+<p>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&center=true&vCenter=true&width=900&lines=Testing+%26+Integration+Specialist;Track+%26+Trace+Systems;Vision+Inspection;Machine+Commissioning;Computer+Science+Student;Building+Practical+Engineering+Tools"/>
+
 </p>
 
+</div>
 <p>
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&center=true&vCenter=true&width=900&lines=Testing+%26+Integration+Specialist;Track+%26+Trace+Systems;Vision+Inspection;Machine+Commissioning;Computer+Science+Student;Building+Practical+Engineering+Tools" />
 </p>
