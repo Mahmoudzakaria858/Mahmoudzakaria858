@@ -129,22 +129,50 @@ Computer Science
 
 ---
 
-# 💻 Tech Stack
+## 💻 Tech Stack
+
+<div align="center">
+
+### Programming & Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,git,github,mysql,sqlite,vscode"/>
+</p>
+
+### Industrial Technologies
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=python,git,github,mysql,sqlite,vscode"/>
+<img src="https://img.shields.io/badge/Track%20%26%20Trace-8B0038?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Vision%20Inspection-7BCB68?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Machine%20Integration-111827?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Commissioning-8B0038?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/FAT%20%2F%20SAT-7BCB68?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Testing%20%26%20Validation-111827?style=for-the-badge"/>
 
 </p>
 
-**Industrial Technologies**
+</div>
 
-- Track & Trace
-- Vision Inspection
-- Serialization
-- FAT / SAT
-- Machine Commissioning
-- Machine Integration
+---
+
+## ⚙ Technologies I Work With
+
+| Industrial | Software |
+|------------|----------|
+| Track & Trace | Python |
+| Vision Inspection | MySQL |
+| Serialization | SQLite |
+| Machine Commissioning | Git |
+| Machine Integration | GitHub |
+| FAT / SAT | VS Code |
+| Testing & Validation | Desktop Applications |
+
 
 ---
 
