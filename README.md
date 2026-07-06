@@ -44,17 +44,74 @@ I believe that the best software starts with a real problem—not just an idea.
 
 ---
 
-# 🚀 Career Highlights
+## 🚀 Career Highlights
 
-- 🏭 40+ Industrial Machines Delivered
-- 🚀 20+ Industrial Projects
-- 🌍 Egypt • Saudi Arabia • UAE
-- 📷 Vision Inspection Systems
-- 🏷 Track & Trace Systems
-- ⚙ Machine Commissioning
-- 🔄 Machine Integration
-- 🧪 Testing & Validation
-- 📄 Technical Documentation
+<p align="center">
+
+<table>
+<tr>
+
+<td align="center" width="180">
+
+## 🏭
+
+# 40+
+
+Industrial Machines
+
+Delivered
+
+</td>
+
+<td align="center" width="180">
+
+## 🚀
+
+# 20+
+
+Industrial
+
+Projects
+
+</td>
+
+<td align="center" width="180">
+
+## 🌍
+
+Egypt 🇪🇬
+
+Saudi Arabia 🇸🇦
+
+UAE 🇦🇪
+
+</td>
+
+<td align="center" width="180">
+
+## 🎓
+
+B.Sc.
+
+Computer Science
+
+(In Progress)
+
+</td>
+
+</tr>
+</table>
+
+</p>
+
+---
+## ⚡ Core Expertise
+
+| Track & Trace | Vision Systems | Commissioning | Testing |
+|:-------------:|:--------------:|:-------------:|:--------:|
+| 🏷 Serialization | 📷 Inspection | ⚙ FAT / SAT | 🧪 Validation |
+| Aggregation | OCR | Startup | Integration |
+| Production Tracking | Barcode Verification | Performance Testing | Documentation |
 
 ---
 
